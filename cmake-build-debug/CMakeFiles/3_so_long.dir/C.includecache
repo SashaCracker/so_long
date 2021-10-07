@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sgummy/Desktop/Common_core/3_so_long/main.c
+so_long.h
+/Users/sgummy/Desktop/Common_core/3_so_long/so_long.h
+
+/Users/sgummy/Desktop/Common_core/3_so_long/mlx.h
+
+/Users/sgummy/Desktop/Common_core/3_so_long/so_long.h
+stdlib.h
+-
+mlx.h
+/Users/sgummy/Desktop/Common_core/3_so_long/mlx.h
+unistd.h
+-
+fcntl.h
+-
+stdio.h
+-
+

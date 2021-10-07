@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="3_so_long"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_so_long">
+				<Option output="/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/3_so_long" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_so_long"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_so_long/fast">
+				<Option output="/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/3_so_long" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_so_long/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sgummy/Desktop/Common_core/3_so_long/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_action.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_background.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_button_press.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_check_file.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_check_map_top_bottom.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_check_map_walls.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_close.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_collectible.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_enemy.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_enemy_animation.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_exit.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_free_all.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_game_over.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_game_window.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_get_player_position.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_is_it_game.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_itoa.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_map_creation.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_map_dell.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_map_parsing.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_map_picture.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_move_down.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_move_left.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_move_right.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_move_up.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_objects_quantity.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_player.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_player_left_animation.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_player_right_animation.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_putstr.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_rows_number.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_steps_string.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_walls.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_winner.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/ft_wrong_size.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/get_next_line.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/get_next_line_utils.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/main.c">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/so_long.h">
+			<Option target="3_so_long"/>
+		</Unit>
+		<Unit filename="/Users/sgummy/Desktop/Common_core/3_so_long/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
